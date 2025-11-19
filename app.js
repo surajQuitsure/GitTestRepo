@@ -1,6 +1,11 @@
-import React from 'react'
+import React, { use, useEffect } from 'react'
 
 function app() {
+
+  useEffect(() => {
+    
+  },[])
+
   return (
     <div>
       This is react app
