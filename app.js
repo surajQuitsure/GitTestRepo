@@ -10,6 +10,7 @@ function app() {
     <div>
       This is react app
       <h1>Hello world</h1>
+      <h3>This is a test</h3>
     </div>
   )
 }
